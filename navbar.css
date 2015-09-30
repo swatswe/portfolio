@@ -1,0 +1,12 @@
+#navbar {
+    text-align:center;
+}
+
+#navbar li {
+    display:inline-block;
+    font-size:250%;
+}
+
+a:hover {
+    color:yellow;
+}
